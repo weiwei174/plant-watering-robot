@@ -1,5 +1,5 @@
 # plant-watering-robot
-Autonomous plant-watering robot coded in RobotC, a language based in C++ used to interact with the Lego EV3 robot brick.
+Autonomous plant-watering robot coded in RobotC, a language based in C++ used to interact with the Lego EV3 robot brick. Built by 4 person group with equal contribution.
 
 ## Purpose
 
